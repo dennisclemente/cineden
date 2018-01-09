@@ -1,13 +1,4 @@
-# A Complete Intro to React
+# A React-Firebase site
 
-Welcome to a complete intro to React! The site actual workshop material for this repo can be found [here][gh-page]. On the master branch you will find the completed project. On the start branch you will find the barebones boilerplater of the project designed to help you get started.
+Film producers rely on this site's vote count to decide whether to screen their foreign titles on streaming sites and/or in their neighborhood theater.
 
-## Contributing
-
-Please contribute, file issues, and make PRs. More than anything I'm sure there are typos abounding.
-
-## License
-
-MIT
-
-[gh-page]: http://btholt.github.io/complete-intro-to-react/
